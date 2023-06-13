@@ -27,6 +27,7 @@ Approach Taken
  - Categorical variables were mapped to the original values mentioned in the data dictionary.
  - EDA was perfomed to view relationship between different variables and target variable.
  - Encoding was performed to get dummy variables from catgorical variables. 
+ - Skewed Data was converted to Normal Distribution using BoxCox Transformation.
  - Data was splitted in ratio 70:30 to get training and test data.
  - Linear Regression Model was created using statsmodel API.
  - Mixed approach was used for feature elimination.We used RFE and manual process.
