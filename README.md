@@ -33,6 +33,25 @@ Approach Taken
  - 5 models were created after column removal. 
  - Model was then fitted on test dataset
 
+Feature Coffecients
+
+ const              4775.649051
+ yr                 2111.569089
+ holiday            -728.945049
+ temp               3493.873913
+ hum                -731.611131
+ windspeed         -1275.024515
+ spring            -2910.617891
+ summer            -1687.806323
+ cloudy             -558.958026
+ light snow_rain   -2009.935903
+ august            -1693.627482
+ december          -1336.656385
+ july              -2012.714243
+ november          -1399.060094
+ october            -798.156137
+ september          -944.435306
+
 R2 Value
 
 - Training Dataset 0.84
